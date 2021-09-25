@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+.header img {
+	float: inherit;
+	width: 150px;
+		height: 100px;
+	background: #555;
+		}
+h1 {font-family: athelas;
+font-size: 40px;
+	background-color: #B21F21;
+	text-align: center;
+	color: #000000;
+}
+/* Navigation */
+ul { 
+list-style-type: none;
+margin: 0;
+padding: 0;
+	background-color: #050505;
+	text-align: center;
+	font-family: athelas;
+	font-size: 25px; 
+}
+li {
+	display: inline-block;
+}
+li a {
+	color: #D8C6C7
+}
+p {font-family: athelas;
+font-size: 20px;
+	text-align: center;
+	background: #867575
+}
